@@ -27,3 +27,8 @@ reggie:
 #  username: 1686201650@qq.com
 #  # 你的QQ邮箱授权码
 #  password: fobxgtkfslskdabg
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  database: 0
