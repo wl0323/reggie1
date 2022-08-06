@@ -18,3 +18,12 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_ID
+reggie:
+  path: D:\img\
+
+#mail:
+#  host: smtp.qq.com
+#  # 你的QQ邮箱，这里为发件人，填自己的即可
+#  username: 1686201650@qq.com
+#  # 你的QQ邮箱授权码
+#  password: fobxgtkfslskdabg
